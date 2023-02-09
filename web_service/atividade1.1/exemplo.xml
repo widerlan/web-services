@@ -25,9 +25,9 @@ xmlns:soap="http://www.w3.org/2003/05/soap-envelope/"
 soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding">
 <soap:Body xmlns:m="http://www.minhaempresa.com/consultaCliente">
   <m:consultaClienteResponse>
-    <m:nome>James Paul McCartney</m:nome>
-    <m:endereco>Rua Amaury de Medeiros, 128</m:endereco>
-    <m:telefone>(81) 99988-7766</m:telefone>
+    <m:nome> Widerlan Junior Antonio Da silva </m:nome>
+    <m:endereco>Rua Amaury de Medeiros, 573</m:endereco>
+    <m:telefone>(81) 99272-9175</m:telefone>
   </m:consultaClienteResponse>
 </soap:Body>
 </soap:Envelope>
