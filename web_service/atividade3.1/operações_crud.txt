@@ -6,9 +6,9 @@ Rota: POST http://localhost:3030/books
 
 
 {
-    "name": "A volta ao mundo em 80 dias",
+    "name": "Viagem ao centro da Terra",
     "author": "Júlio Verne",
-    "isbn": "9788592797591"
+    "isbn": "9786555520408"
 }
 
 
@@ -18,9 +18,9 @@ Rota: GET http://localhost:3030/books
 
 
 {
-    "name": "A volta ao mundo em 80 dias",
+    "name": "Viagem ao centro da Terra",
     "author": "Júlio Verne",
-    "isbn": "9788592797591"
+    "isbn": "9786555520408"
 }
 
 
@@ -29,10 +29,9 @@ Update: Irá atualizar um determinado livro correspondente ao seu id.
  Rota: PUT http://localhost:3030/books/:id
 
 {
-    "id": 435,
-    "name": "A volta ao mundo em 80 dias",
+    "name": "Viagem ao centro da Terra",
     "author": "Júlio Verne",
-    "isbn": "9788592797591"
+    "isbn": "9786555520408"
 }
 
 
